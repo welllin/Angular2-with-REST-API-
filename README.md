@@ -21,8 +21,3 @@ This article has been used as a starter kit for this [article](http://welllin.ne
 1. Run `docker-compose up` to run the containers
 
 1. Navigate to http://localhost:3000 if using Docker for Mac/Windows or http://192.168.99.100:3000 if using Docker Toolbox in a browser
-
-1. Live long and prosper
-
-Note: To run the "production" build follow the instructions in docker-compose.production.yml. The local files are copied into
-the image with this mode so no need to have the tsc:w task running unless you're going to continue local development.
